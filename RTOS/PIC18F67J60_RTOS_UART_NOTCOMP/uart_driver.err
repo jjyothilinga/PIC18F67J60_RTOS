@@ -1,0 +1,8 @@
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 106 : location PRODH specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 106 : location PRODL specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 106 : location TABLAT specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 106 : location .tmpdata specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 138 : location PRODH specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 138 : location PRODL specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 138 : location TABLAT specified in the interrupt save list is redundant
+Warning[2074] C:\Users\JO\Desktop\PIC18F67J60_RTOS_UART\test\uart_driver.c 138 : location .tmpdata specified in the interrupt save list is redundant
